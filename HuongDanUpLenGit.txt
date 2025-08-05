@@ -1,0 +1,4 @@
+- git status // Kiem tra file
+- git add . // Them file
+- git commit -m "Content"  // git commit -m"An 05/08"
+- git push origin AnBosss
