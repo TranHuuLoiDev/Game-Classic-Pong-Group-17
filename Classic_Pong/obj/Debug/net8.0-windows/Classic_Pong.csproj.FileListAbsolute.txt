@@ -1,0 +1,69 @@
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.exe
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.deps.json
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.runtimeconfig.json
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.dll
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.pdb
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.Form1.resources
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.Properties.Resources.resources
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.csproj.GenerateResource.cache
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.AssemblyInfoInputs.cache
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.AssemblyInfo.cs
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.csproj.CoreCompileInputs.cache
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.sourcelink.json
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.dll
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\refint\Classic_Pong.dll
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.pdb
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.genruntimeconfig.cache
+D:\Game-Classic-Pong\Classic_Pong\Classic_Pong\obj\Debug\net8.0-windows\ref\Classic_Pong.dll
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.exe
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.deps.json
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.runtimeconfig.json
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.dll
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.pdb
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.Form1.resources
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.Properties.Resources.resources
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.csproj.GenerateResource.cache
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.GeneratedMSBuildEditorConfig.editorconfig
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.AssemblyInfoInputs.cache
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.AssemblyInfo.cs
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.csproj.CoreCompileInputs.cache
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.dll
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\refint\Classic_Pong.dll
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.pdb
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.genruntimeconfig.cache
+H:\Game-Classic-Pong-Group-17-master\Classic_Pong\obj\Debug\net8.0-windows\ref\Classic_Pong.dll
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.dll
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\refint\Classic_Pong.dll
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.pdb
+H:\test1\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.exe
+H:\test1\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.deps.json
+H:\test1\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.runtimeconfig.json
+H:\test1\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.dll
+H:\test1\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.pdb
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.Form1.resources
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.Properties.Resources.resources
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.csproj.GenerateResource.cache
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.GeneratedMSBuildEditorConfig.editorconfig
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.AssemblyInfoInputs.cache
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.AssemblyInfo.cs
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.csproj.CoreCompileInputs.cache
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.genruntimeconfig.cache
+H:\test1\Classic_Pong\obj\Debug\net8.0-windows\ref\Classic_Pong.dll
+H:\test1 - Copy\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.exe
+H:\test1 - Copy\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.deps.json
+H:\test1 - Copy\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.runtimeconfig.json
+H:\test1 - Copy\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.dll
+H:\test1 - Copy\Classic_Pong\bin\Debug\net8.0-windows\Classic_Pong.pdb
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.Form1.resources
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.Properties.Resources.resources
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.csproj.GenerateResource.cache
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.GeneratedMSBuildEditorConfig.editorconfig
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.AssemblyInfoInputs.cache
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.AssemblyInfo.cs
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.csproj.CoreCompileInputs.cache
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.dll
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\refint\Classic_Pong.dll
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.pdb
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\Classic_Pong.genruntimeconfig.cache
+H:\test1 - Copy\Classic_Pong\obj\Debug\net8.0-windows\ref\Classic_Pong.dll
